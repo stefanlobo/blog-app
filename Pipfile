@@ -8,6 +8,7 @@ django = "~=5.0.4"
 python-decouple = "==3.8"
 djhtml = "*"
 django-taggit = "==5.0.1"
+markdown = "==3.6"
 
 [dev-packages]
 
