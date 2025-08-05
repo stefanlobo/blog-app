@@ -9,6 +9,7 @@ from django.db.models import Count
 from taggit.models import Tag
 from .models import Post
 from .forms import EmailPostForm, CommentForm
+from taggit.models import Tag
 
 # Create your views here.
 
